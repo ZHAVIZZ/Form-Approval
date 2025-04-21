@@ -1,0 +1,568 @@
+[21-Apr-2025 08:14:12 UTC] Forms Approval: Saved Telegram settings: {"bot_token":"7573801117:AAEYkilSpOmZfAAGvWR4nxepwqERfIPWl5U","chat_id":"7385125774"}
+[21-Apr-2025 08:14:14 UTC] Forms Approval: Telegram webhook set to: https://developement.cyou/?forms_approval_telegram_callback=1
+[21-Apr-2025 08:14:33 UTC] Forms Approval: Set fallback cookie session ID: cf4ee860-2bc3-4f5c-87ab-26e0f49661c6
+[21-Apr-2025 08:14:34 UTC] Forms Approval: Set fallback cookie session ID: 71466b98-0664-4ba0-93ca-e42fc771550d
+[21-Apr-2025 08:14:34 UTC] Forms Approval: Processing form ID 17, Entry ID: 166, Session ID: ba78cfad-3fb8-48de-93cc-bcf67bb8b576
+[21-Apr-2025 08:14:34 UTC] Forms Approval: Visitor IP: 45.88.91.148, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[21-Apr-2025 08:14:34 UTC] Forms Approval: Inserted submission ID 1 for form ID 17
+[21-Apr-2025 08:14:34 UTC] Forms Approval: Added submission ID 1 to pending notifications for IP 45.88.91.148
+[21-Apr-2025 08:14:34 UTC] Forms Approval: Set fallback cookie session ID: 5ee28e5e-9c39-43c5-835d-8d8cef3888ae
+[21-Apr-2025 08:14:35 UTC] Forms Approval: Set fallback cookie session ID: 2c8ef6c9-1d98-474f-8e98-6cfd4ae38524
+[21-Apr-2025 08:14:35 UTC] Forms Approval: Telegram message failed for IP 45.88.91.148: Bad Request: chat not found
+[21-Apr-2025 08:14:35 UTC] Forms Approval: Set fallback cookie session ID: 30286df3-5052-4136-8adc-fa1cb8dece58
+[21-Apr-2025 08:14:35 UTC] Forms Approval: Set fallback cookie session ID: 2438d6c1-6a91-48a2-9cb4-7c903a2d6c31
+[21-Apr-2025 08:14:35 UTC] Forms Approval: Set fallback cookie session ID: 5560c035-b8c7-484b-a579-3df5ece51206
+[21-Apr-2025 08:14:36 UTC] Forms Approval: Set fallback cookie session ID: ed06968d-8677-4bac-bc46-90cdb81c5390
+[21-Apr-2025 08:14:36 UTC] Forms Approval: Set fallback cookie session ID: 02271d2e-f617-4091-9abf-325be20d1bb4
+[21-Apr-2025 08:14:36 UTC] Forms Approval: Set fallback cookie session ID: 88fc8aea-14a4-46f0-895b-7b791170f4a5
+[21-Apr-2025 08:14:37 UTC] Forms Approval: Set fallback cookie session ID: aca83416-2fda-426b-86a9-28920cbfa5e4
+[21-Apr-2025 08:14:37 UTC] Forms Approval: Set fallback cookie session ID: a7ab1ecc-3c94-47b6-8ce5-f5414f1e0e01
+[21-Apr-2025 08:14:37 UTC] Forms Approval: Set fallback cookie session ID: 3c298a80-bcd9-48d1-81b0-b2e3dd14edf8
+[21-Apr-2025 08:14:37 UTC] Forms Approval: Set fallback cookie session ID: 877a9693-f20f-40eb-a5c5-ee16f8edeb83
+[21-Apr-2025 08:14:38 UTC] Forms Approval: Set fallback cookie session ID: 423f3756-b2ed-4995-a286-0e2e910ee1a9
+[21-Apr-2025 08:14:38 UTC] Forms Approval: Set fallback cookie session ID: 495120d2-04b3-4f80-939b-74583cd5afe1
+[21-Apr-2025 08:14:46 UTC] Forms Approval: Webhook Received: {"update_id":877211974,
+"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:46 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "362",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "38854",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223286.178054,
+    "REQUEST_TIME": 1745223286
+}
+[21-Apr-2025 08:14:46 UTC] Forms Approval: Invalid Telegram callback: {"update_id":877211974,"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:46 UTC] Forms Approval: Webhook Received: {"update_id":877211974,
+"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:46 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "362",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "38860",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223286.439033,
+    "REQUEST_TIME": 1745223286
+}
+[21-Apr-2025 08:14:46 UTC] Forms Approval: Invalid Telegram callback: {"update_id":877211974,"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:48 UTC] Forms Approval: Webhook Received: {"update_id":877211974,
+"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:48 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "362",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "39030",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223288.697089,
+    "REQUEST_TIME": 1745223288
+}
+[21-Apr-2025 08:14:48 UTC] Forms Approval: Invalid Telegram callback: {"update_id":877211974,"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:53 UTC] Forms Approval: Webhook Received: {"update_id":877211974,
+"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:53 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "362",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "33512",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223292.963713,
+    "REQUEST_TIME": 1745223292
+}
+[21-Apr-2025 08:14:53 UTC] Forms Approval: Invalid Telegram callback: {"update_id":877211974,"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:14:58 UTC] Forms Approval: Processing form ID 17, Entry ID: 167, Session ID: ba78cfad-3fb8-48de-93cc-bcf67bb8b576
+[21-Apr-2025 08:14:58 UTC] Forms Approval: Visitor IP: 45.88.91.148, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[21-Apr-2025 08:14:58 UTC] Forms Approval: Reused visitor IP 45.88.91.148 for session ID ba78cfad-3fb8-48de-93cc-bcf67bb8b576
+[21-Apr-2025 08:14:58 UTC] Forms Approval: Inserted submission ID 2 for form ID 17
+[21-Apr-2025 08:14:58 UTC] Forms Approval: Added submission ID 2 to pending notifications for IP 45.88.91.148
+[21-Apr-2025 08:14:59 UTC] Forms Approval: Telegram message sent for IP 45.88.91.148, Message ID: 2
+[21-Apr-2025 08:15:01 UTC] Forms Approval: Webhook Received: {"update_id":877211974,
+"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:15:01 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "362",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "55870",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223301.23769,
+    "REQUEST_TIME": 1745223301
+}
+[21-Apr-2025 08:15:01 UTC] Forms Approval: Invalid Telegram callback: {"update_id":877211974,"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:15:04 UTC] Forms Approval: Webhook Received: {"update_id":877211975,
+"callback_query":{"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}}
+[21-Apr-2025 08:15:04 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2269",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "56508",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223304.645037,
+    "REQUEST_TIME": 1745223304
+}
+[21-Apr-2025 08:15:04 UTC] Forms Approval: Callback Data: {"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}
+[21-Apr-2025 08:15:04 UTC] Forms Approval: Set redirect for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 and IP 45.88.91.148 to https://developement.cyou/otp
+[21-Apr-2025 08:15:05 UTC] Forms Approval: Webhook Received: {"update_id":877211975,
+"callback_query":{"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}}
+[21-Apr-2025 08:15:05 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2269",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "56650",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223305.798623,
+    "REQUEST_TIME": 1745223305
+}
+[21-Apr-2025 08:15:05 UTC] Forms Approval: Callback Data: {"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}
+[21-Apr-2025 08:15:05 UTC] Forms Approval: Set redirect for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 and IP 45.88.91.148 to https://developement.cyou/otp
+[21-Apr-2025 08:15:05 UTC] Forms Approval: AJAX redirect triggered for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 to https://developement.cyou/otp
+[21-Apr-2025 08:15:08 UTC] Forms Approval: Webhook Received: {"update_id":877211975,
+"callback_query":{"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}}
+[21-Apr-2025 08:15:08 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2269",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "57102",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223308.674386,
+    "REQUEST_TIME": 1745223308
+}
+[21-Apr-2025 08:15:08 UTC] Forms Approval: Callback Data: {"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}
+[21-Apr-2025 08:15:08 UTC] Forms Approval: Set redirect for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 and IP 45.88.91.148 to https://developement.cyou/otp
+[21-Apr-2025 08:15:09 UTC] Forms Approval: AJAX redirect triggered for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 to https://developement.cyou/otp
+[21-Apr-2025 08:15:13 UTC] Forms Approval: Webhook Received: {"update_id":877211975,
+"callback_query":{"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}}
+[21-Apr-2025 08:15:13 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2269",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "35822",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223313.566565,
+    "REQUEST_TIME": 1745223313
+}
+[21-Apr-2025 08:15:13 UTC] Forms Approval: Callback Data: {"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}
+[21-Apr-2025 08:15:13 UTC] Forms Approval: Set redirect for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 and IP 45.88.91.148 to https://developement.cyou/otp
+[21-Apr-2025 08:15:14 UTC] Forms Approval: AJAX redirect triggered for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 to https://developement.cyou/otp
+[21-Apr-2025 08:15:17 UTC] Forms Approval: Webhook Received: {"update_id":877211974,
+"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:15:17 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "362",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "36612",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223317.516223,
+    "REQUEST_TIME": 1745223317
+}
+[21-Apr-2025 08:15:17 UTC] Forms Approval: Invalid Telegram callback: {"update_id":877211974,"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:15:22 UTC] Forms Approval: Webhook Received: {"update_id":877211975,
+"callback_query":{"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}}
+[21-Apr-2025 08:15:22 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2269",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "47962",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223322.463017,
+    "REQUEST_TIME": 1745223322
+}
+[21-Apr-2025 08:15:22 UTC] Forms Approval: Callback Data: {"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}
+[21-Apr-2025 08:15:22 UTC] Forms Approval: Set redirect for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 and IP 45.88.91.148 to https://developement.cyou/otp
+[21-Apr-2025 08:15:22 UTC] Forms Approval: AJAX redirect triggered for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 to https://developement.cyou/otp
+[21-Apr-2025 08:15:39 UTC] Forms Approval: Webhook Received: {"update_id":877211975,
+"callback_query":{"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}}
+[21-Apr-2025 08:15:39 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2269",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "49766",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223339.349808,
+    "REQUEST_TIME": 1745223339
+}
+[21-Apr-2025 08:15:39 UTC] Forms Approval: Callback Data: {"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}
+[21-Apr-2025 08:15:39 UTC] Forms Approval: Set redirect for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 and IP 45.88.91.148 to https://developement.cyou/otp
+[21-Apr-2025 08:15:40 UTC] Forms Approval: AJAX redirect triggered for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 to https://developement.cyou/otp
+[21-Apr-2025 08:15:40 UTC] Forms Approval: Processing form ID 92, Entry ID: 168, Session ID: ba78cfad-3fb8-48de-93cc-bcf67bb8b576
+[21-Apr-2025 08:15:40 UTC] Forms Approval: Visitor IP: 45.88.91.148, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[21-Apr-2025 08:15:40 UTC] Forms Approval: Reused visitor IP 45.88.91.148 for session ID ba78cfad-3fb8-48de-93cc-bcf67bb8b576
+[21-Apr-2025 08:15:40 UTC] Forms Approval: Inserted submission ID 3 for form ID 92
+[21-Apr-2025 08:15:40 UTC] Forms Approval: Added submission ID 3 to pending notifications for IP 45.88.91.148
+[21-Apr-2025 08:15:41 UTC] Forms Approval: Telegram message updated for IP 45.88.91.148, Message ID: 2
+[21-Apr-2025 08:15:49 UTC] Forms Approval: Webhook Received: {"update_id":877211974,
+"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:15:49 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "362",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "56462",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223349.791066,
+    "REQUEST_TIME": 1745223349
+}
+[21-Apr-2025 08:15:49 UTC] Forms Approval: Invalid Telegram callback: {"update_id":877211974,"message":{"message_id":1,"from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223285,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[21-Apr-2025 08:15:51 UTC] Forms Approval: Failed to update Telegram message for IP 45.88.91.148: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+[21-Apr-2025 08:15:52 UTC] Forms Approval: Telegram message sent for IP 45.88.91.148, Message ID: 3
+[21-Apr-2025 08:16:12 UTC] Forms Approval: Webhook Received: {"update_id":877211975,
+"callback_query":{"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet / Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}}
+[21-Apr-2025 08:16:12 UTC] Forms Approval: Server Variables: {
+    "SERVER_SOFTWARE": "LiteSpeed",
+    "REQUEST_URI": "\/?forms_approval_telegram_callback=1",
+    "PATH": "\/usr\/local\/bin:\/bin:\/usr\/bin",
+    "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+    "CONTENT_TYPE": "application\/json",
+    "CONTENT_LENGTH": "2269",
+    "HTTP_HOST": "developement.cyou",
+    "HTTP_X_FORWARDED_FOR": "91.108.5.15",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_X_HTTPS": "on",
+    "DOCUMENT_ROOT": "\/home\/deveqrzj\/public_html",
+    "REMOTE_ADDR": "91.108.5.15",
+    "REMOTE_PORT": "39640",
+    "SERVER_ADDR": "199.188.200.165",
+    "SERVER_NAME": "developement.cyou",
+    "SERVER_ADMIN": "webmaster@developement.cyou",
+    "SERVER_PORT": "443",
+    "REQUEST_SCHEME": "https",
+    "PROXY_REMOTE_ADDR": "199.188.200.165",
+    "HTTPS": "on",
+    "HTTP_AUTHORIZATION": "",
+    "SCRIPT_FILENAME": "\/home\/deveqrzj\/public_html\/index.php",
+    "QUERY_STRING": "forms_approval_telegram_callback=1",
+    "SCRIPT_URI": "https:\/\/developement.cyou\/",
+    "SCRIPT_URL": "\/",
+    "SCRIPT_NAME": "\/index.php",
+    "SERVER_PROTOCOL": "HTTP\/1.1",
+    "REQUEST_METHOD": "POST",
+    "X-LSCACHE": "on",
+    "PHP_SELF": "\/index.php",
+    "REQUEST_TIME_FLOAT": 1745223372.187922,
+    "REQUEST_TIME": 1745223372
+}
+[21-Apr-2025 08:16:12 UTC] Forms Approval: Callback Data: {"id":"4048757568263543402","from":{"id":7385125774,"is_bot":false,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","language_code":"en","is_premium":true},"message":{"message_id":2,"from":{"id":7573801117,"is_bot":true,"first_name":"Auto_Form_Capture","username":"Formcapture_bot"},"chat":{"id":7385125774,"first_name":"Z H A V I Z","username":"ZHAVIZZZ","type":"private"},"date":1745223299,"text":"\ud83c\udf10 Visitor IP: 45.88.91.148\n\ud83d\udc64 User Agent: Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udca1 Status: Online - Admin-ajax.php\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:34\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#\ufe0f\u20e3 Form: Basic\n\u2705 Submitted info:\nFinancial Institution: Digital Wallet \/ Prepaid Service\nService Name: Cashapp\n\ud83d\udcc5 Date: 2025-04-21 08:14:58\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500","entities":[{"offset":15,"length":12,"type":"url"},{"offset":131,"length":9,"type":"url"}],"reply_markup":{"inline_keyboard":[[{"text":"Login","callback_data":"action:login:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"OTP","callback_data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Information","callback_data":"action:information:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Reject","callback_data":"action:reject:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Finish","callback_data":"action:finish:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"},{"text":"Delete","callback_data":"action:delete:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}]]}},"chat_instance":"8020858154697337449","data":"action:otp:ba78cfad-3fb8-48de-93cc-bcf67bb8b576"}
+[21-Apr-2025 08:16:12 UTC] Forms Approval: Set redirect for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 and IP 45.88.91.148 to https://developement.cyou/otp
+[21-Apr-2025 08:16:12 UTC] Forms Approval: AJAX redirect triggered for Session ba78cfad-3fb8-48de-93cc-bcf67bb8b576 to https://developement.cyou/otp
